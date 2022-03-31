@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.5da98830.css",
+    "main.js": "/myportfolio/static/js/main.69a0a90e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/myportfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/burguerbirra.jpg": "/myportfolio/static/media/burguerbirra.859a36e32cf2bd67f896.jpg",
+    "static/media/nuggetsa.jpg": "/myportfolio/static/media/nuggetsa.027427ff2886a55dd4e8.jpg",
+    "static/media/Logo.jpeg": "/myportfolio/static/media/Logo.027be6e178cac6acbf60.jpeg",
+    "static/media/tapas.jpg": "/myportfolio/static/media/tapas.a153c79176d7b390697c.jpg",
+    "static/media/papas.jpg": "/myportfolio/static/media/papas.b88b65f88e624db848bb.jpg",
+    "static/media/chickenburguer.jpg": "/myportfolio/static/media/chickenburguer.1aeb5778a57113445e4b.jpg",
+    "static/media/milanga.jpg": "/myportfolio/static/media/milanga.a733d5b7c91697787fd7.jpg",
+    "static/media/bestiaburguer.jpg": "/myportfolio/static/media/bestiaburguer.8cb0a87ce96c6798cd50.jpg",
+    "static/media/cheeseburguer.jpg": "/myportfolio/static/media/cheeseburguer.f4d81a0591b7167ffbdc.jpg",
+    "static/media/superburguer.jpg": "/myportfolio/static/media/superburguer.7825b8b8098130bdb13f.jpg",
+    "static/media/barra2.jpg": "/myportfolio/static/media/barra2.6b5be8dcda657f487654.jpg",
+    "static/media/slowVegan.jpg": "/myportfolio/static/media/slowVegan.5cb4dd02cdf0c2b13a7a.jpg",
+    "static/media/birras.jpg": "/myportfolio/static/media/birras.a930fd2c58761e60eae0.jpg",
+    "static/media/meetcheeseburguer.jpg": "/myportfolio/static/media/meetcheeseburguer.41df9b5cb048e6027942.jpg",
+    "static/media/trago.jpg": "/myportfolio/static/media/trago.ffc907a0ab3bf8346d83.jpg",
+    "static/media/allburguer.jpg": "/myportfolio/static/media/allburguer.1ee99502c76348ed1675.jpg",
+    "static/media/onionburguer.jpg": "/myportfolio/static/media/onionburguer.b6f46357ec5d6b74749a.jpg",
+    "index.html": "/myportfolio/index.html",
+    "main.5da98830.css.map": "/myportfolio/static/css/main.5da98830.css.map",
+    "main.69a0a90e.js.map": "/myportfolio/static/js/main.69a0a90e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/myportfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5da98830.css",
+    "static/js/main.69a0a90e.js"
+  ]
+}

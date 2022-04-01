@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aspitafood/static/css/main.a7fac79b.css",
-    "main.js": "/aspitafood/static/js/main.cab67029.js",
+    "main.js": "/aspitafood/static/js/main.67c65d12.js",
     "static/js/787.28cb0dcd.chunk.js": "/aspitafood/static/js/787.28cb0dcd.chunk.js",
     "static/media/burguerbirra.jpg": "/aspitafood/static/media/burguerbirra.859a36e32cf2bd67f896.jpg",
     "static/media/nuggetsa.jpg": "/aspitafood/static/media/nuggetsa.027427ff2886a55dd4e8.jpg",
@@ -22,11 +22,11 @@
     "static/media/onionburguer.jpg": "/aspitafood/static/media/onionburguer.b6f46357ec5d6b74749a.jpg",
     "index.html": "/aspitafood/index.html",
     "main.a7fac79b.css.map": "/aspitafood/static/css/main.a7fac79b.css.map",
-    "main.cab67029.js.map": "/aspitafood/static/js/main.cab67029.js.map",
+    "main.67c65d12.js.map": "/aspitafood/static/js/main.67c65d12.js.map",
     "787.28cb0dcd.chunk.js.map": "/aspitafood/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7fac79b.css",
-    "static/js/main.cab67029.js"
+    "static/js/main.67c65d12.js"
   ]
 }

@@ -13,7 +13,7 @@ const Home = () => {
                 <div className="container-fluid gx-0">
                     <div className="background-container d-flex align-items-center justify-content-center flex-column">
                         <p className='text-center'>DESCUBRÍ TU ESTILO</p>
-                        <HashLink className="button-home" to="/#nosotros">¡DESCUBRÍ RINCON!</HashLink>
+                        <HashLink className="button-home" to="/#nosotros">¡DESCUBRÍ BARNIE!</HashLink>
                     </div>
                 </div>
             </div>
